@@ -1,0 +1,23 @@
+page-map:
+  header
+    img logo 
+    nav 
+      <span><a>...
+  main 
+    mission_container id;  background-image
+      mission_text class
+        h2
+        h4
+    sortiment_container class 
+      featured_text class
+        h2
+        h4
+      featured_img
+        5x img with separate classes
+    locations_container
+      locations_text
+      locations_list  
+        3x list with separate classes
+  footer
+      contact id
+      copyright id

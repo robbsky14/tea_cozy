@@ -1,0 +1,21 @@
+css selectors
+body
+header
+nav
+a
+.main
+.section_containers
+.mission_container
+.mission_text
+h2
+#mission
+h4
+.sortoment_container
+.sortiment_text
+.sortiment_img
+.blitz
+.rum
+.donuts
+.myrtle
+.bizarre
+
